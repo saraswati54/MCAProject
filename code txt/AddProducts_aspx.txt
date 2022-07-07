@@ -1,0 +1,79 @@
+
+
+AddProducts_aspx
+
+
+<%@ Page Title="" Language="C#" MasterPageFile="~/Home.Master" AutoEventWireup="true" CodeBehind="AddProducts.aspx.cs" Inherits="ElectronicsProject.AddProducts" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+    <div>
+        <table style="width:700px; height:380px;/* background-color:#9999FF; */ text-align:center" align="center">
+            <tr>
+                <td colspan="2" width="50%">
+                    <h1>Add Product</h1>
+                </td>
+            </tr>
+            <tr>
+                <td >
+                    <h3>Product ID</h3>
+                </td>
+                <td>
+
+                    <asp:TextBox ID="txtProductId" runat="server"></asp:TextBox>                   
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Product Name:</h3>
+                </td>
+                <td>
+
+                    <asp:TextBox ID="txtProdName" runat="server"></asp:TextBox>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Product Description:</h3>
+                </td>
+                <td>
+                    <asp:TextBox ID="txtProdDesc" runat="server"></asp:TextBox>
+                </td>   
+            </tr>
+            <tr>
+                <td>
+                      <h3>Product Image:</h3>
+                </td>
+                <td>         
+                    <asp:FileUpload ID="fileProdImg" runat="server" Width="168px" />
+                </td>             
+            </tr>
+            <tr>
+                <td>
+                    <h3>Product Price:</h3>
+                </td>
+                <td>
+
+                    
+                    <asp:TextBox ID="txtProdPrice" runat="server"></asp:TextBox>
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+
+                    <asp:Button ID="Button1" runat="server" Text="Add Product" Height="50px" Width="200px" Font-Bold="True" OnClick="Button1_Click" />
+
+                </td>
+               
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+                </td>
+            </tr>
+        </table>
+    </div>
+</asp:Content>

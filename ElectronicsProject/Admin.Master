@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="ElectronicsProject.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>    
+    <style>
+        .navbar
+        {
+            background:#00c3ff;/* fallback for old browser*/
+            background:-webkit-linear-gradient(to right, #ffff1c, #00c3ff);/*crome 10-25, safari 5.1-6*/
+            background:linear-gradient(to right, #ffff1c, #00c3ff);/*W3C, IE 10+/Edge,Firefox 16+, chrome 26+, opera 12+, safari 7+ */
+        }
+        .button
+        {
+            background:#0052D4;/* fallback for old browser*/
+            background:-webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);/*crome 10-25, safari 5.1-6*/
+            background:linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);/*W3C, IE 10+/Edge,Firefox 16+, chrome 26+, opera 12+, safari 7+ */
+        }        
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+             <table align="center">
+                <%-- admin banner image--%>
+                 <tr style="width:1200px; height:160px; color:aqua;">
+                     <td>
+                         <asp:Image ID="Image1" runat="server" BorderColor="#666666" BorderWidth="3px" Height="160px" 
+                             ImageUrl="~/images/mipp-admin-banner.jpg" Width="1200px" />
+                     </td>
+                 </tr>
+                 <tr style="border-width:8px; color:#666666; border-color:#666666; width:1200px; height:60px; background-color:#c547ff;">
+                     <td>
+                         <div class="navbar">
+                             <table align="center" cellpadding="10">
+                                 <tr>
+                                     <td>
+                                         <asp:Button CssClass="button" ID="btnCategory" runat="server"  Width="171px" BorderColor="#666666"
+                                          Text="Add Category" Font-Bold="true" Font-Size="Medium" Height="49px" CausesValidation="false" OnClick="btnCategory_Click" />
+                                     </td>
+                                     <td>
+                                         <asp:Button CssClass="button" ID="btnAddProduct" runat="server"  Width="171px" BorderColor="#666666"
+                                          Text="Add Product" Font-Bold="true" Font-Size="Medium" Height="49px" CausesValidation="false" OnClick="btnAddProduct_Click" />
+                                     </td>
+                                     <td>
+                                         <asp:Button CssClass="button" ID="btnUpdateProduct" runat="server"  Width="171px" BorderColor="#666666"
+                                          Text="Update Product" Font-Bold="true" Font-Size="Medium" Height="49px" CausesValidation="false" OnClick="btnUpdateProduct_Click" />
+                                     </td>
+                                     <td>
+                                         <asp:Button CssClass="button" ID="btnOrderStatus" runat="server"  Width="171px" BorderColor="#666666"
+                                          Text="Order Status" Font-Bold="true" Font-Size="Medium" Height="49px" CausesValidation="false" OnClick="btnOrderStatus_Click" />
+                                     </td>
+                                     <td>
+                                         <asp:Button CssClass="button" ID="btnManageRole" runat="server"  Width="171px" BorderColor="#666666"
+                                          Text="Manage Users" Font-Bold="true" Font-Size="Medium" Height="49px" CausesValidation="false" OnClick="btnManageRole_Click"  />
+                                     </td>
+                                     <td>
+                                         <asp:Button CssClass="button" ID="btnLogout" runat="server" Width="171px" BorderColor="#666666"
+                                          Text="Logout" Font-Bold="true" Font-Size="Medium" Height="49px" CausesValidation="false" OnClick="btnLogout_Click" />
+                                     </td>
+                                 </tr>                                 
+                             </table>
+                         </div>
+                     </td>
+                 </tr>
+                 <tr>
+                     <td>
+                         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                         </asp:ContentPlaceHolder>
+                     </td>
+                 </tr>
+             </table>                
+       </div>    
+    </form>
+</body>
+</html>

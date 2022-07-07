@@ -1,0 +1,84 @@
+
+
+
+
+
+Homepage_aspx
+
+
+
+<%@ Page Title="" Language="C#" MasterPageFile="~/Home.Master" AutoEventWireup="true" CodeBehind="Homepage.aspx.cs" Inherits="ElectronicsProject.Homepage" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .auto-style1 {
+            width: 1251px;
+            height: 30px;
+        }
+    </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <table class="auto-style1">
+        <tr style="background-color:#5f98f3">
+            <td colspan="2" style="text-align:right">
+
+                <asp:Label ID="Label4" runat="server" style="text-align:left" Font-Bold="True" Font-Italic="True"></asp:Label>
+                <asp:HyperLink ID="HyperLink1" runat="server" Font-Bold="True" NavigateUrl="~/Login.aspx">Click Here To Login</asp:HyperLink>
+                <asp:Button ID="Button1" runat="server" Text="Logout" BorderColor="White" Font-Bold="True" Height="39px" Width="102px" OnClick="Button1_Click" />
+
+            </td>
+            <td style="text-align:right">
+                <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                <asp:ImageButton ID="ImageButton2" runat="server" Height="29px" Width="36px" OnClick="ImageButton2_Click" /> <%--searchbar--%>
+            </td>
+        </tr>
+    </table>
+    <asp:DataList ID="DataList1" runat="server" DataSourceID="SqlDataSource1" DataKeyField="ProductId" Height="290px" Width="300px" RepeatColumns="4" RepeatDirection="Horizontal" OnItemCommand="DataList1_ItemCommand">
+        <ItemTemplate> 
+            <table>
+                <tr>
+                    <td style="text-align:center; background-color:#5f98f3">
+                        <asp:Label ID="Label1" runat="server" Text='<%# Eval("Pname") %>'></asp:Label>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">
+                        <asp:Image ID="Image1" runat="server" Height="240px" Width="306px" 
+                            BorderColor="#5F98F3" ImageUrl='<%# Eval("Pimage") %>'/>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; background-color:#5f98f3">
+                        <asp:Label ID="Label2" runat="server" Text="Price: Rs" 
+                            Style="text-align:center"></asp:Label>
+                        <asp:Label ID="Label3" runat="server" Text='<%# Eval("Pprice") %>' 
+                            Style="text-align:center"></asp:Label>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">Quantity:
+                        <asp:DropDownList ID="DropDownList1" runat="server">
+                            <asp:ListItem>1</asp:ListItem>
+                            <asp:ListItem>2</asp:ListItem>
+                            <asp:ListItem>3</asp:ListItem>
+                            <asp:ListItem>4</asp:ListItem>
+                            <asp:ListItem>5</asp:ListItem>
+                        </asp:DropDownList>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">
+                        <asp:ImageButton ID="ImageButton1" runat="server" CommandArgument='<%# Eval("ProductId") %>' 
+                            Height="37px"  Width="150px" CommandName="AddToCart" />
+                    </td>
+                </tr>
+            </table>
+            <br/>
+           
+        </ItemTemplate>
+    </asp:DataList>
+
+    
+
+    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:Electronic %>" 
+        SelectCommand="SELECT [ProductId], [Pname], [Pimage], [Pprice] FROM [Product]"></asp:SqlDataSource>
+</asp:Content>

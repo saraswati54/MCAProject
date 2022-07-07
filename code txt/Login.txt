@@ -1,0 +1,69 @@
+Login
+
+
+
+
+ <div>
+            <marquee>Login here.. </marquee>
+        </div>
+        <table align="center">
+            <tr>
+                <td colspan="2" align="center">
+                    <h2>Sign in</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Email:</b>
+                </td>
+
+                <td>
+                    <asp:TextBox ID="txtEmail" runat="server"></asp:TextBox>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Password:</b>
+                </td>
+
+                <td>
+
+                    <asp:TextBox ID="txtPasswd" runat="server"></asp:TextBox>
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 
+                    <asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click"/>
+                    <br />
+                    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Register.aspx">Not Registered yet, Login here</asp:HyperLink>
+                </td>
+            </tr>
+        </table>
+
+
+
+
+
+
+            SqlConnection con = new SqlConnection("Data Source=.; Initial Catalog=Electronic; Integrated Security=True;");
+            SqlDataAdapter sda = new SqlDataAdapter("select * from Reg where Email ='" + txtEmail.Text + "' and Passwd = '"+ txtPasswd.Text + "'", con);
+          //SqlDataAdapter sda = new SqlDataAdapter("select * from Reg where Email='" + txtEmail.Text + "' and Passwd='" + txtPasswd.Text + "'",con);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            if (dt.Rows.Count == 1)
+            {
+                Label1.Text = "Login successful";
+                Label1.ForeColor = System.Drawing.Color.Green;
+            }
+            else 
+            {
+                Label1.Text = "Login unsuccessful";
+                Label1.ForeColor = System.Drawing.Color.Red;
+            }

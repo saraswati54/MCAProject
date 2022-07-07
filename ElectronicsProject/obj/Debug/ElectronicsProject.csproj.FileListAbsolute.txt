@@ -1,0 +1,179 @@
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.dll.config
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.pdb
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csproj.CopyComplete
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.dll
+C:\Users\Admin\source\repos\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.pdb
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.dll.config
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.pdb
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.exe
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.exe.config
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.rsp
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.exe
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.exe.config
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.rsp
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.AppContext.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Console.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.Compression.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Net.Http.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Net.Sockets.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.ValueTuple.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XPath.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.exe
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.exe.config
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.rsp
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\VBCSCompiler.exe
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csprojAssemblyReference.cache
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csproj.CoreCompileInputs.cache
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csproj.CopyComplete
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.dll
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.pdb
+D:\Laxmi\Projects Video\ElectronicsProject\ElectronicsProject\bin\itextsharp.dll
+D:\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.dll.config
+D:\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.dll
+D:\ElectronicsProject\ElectronicsProject\bin\ElectronicsProject.pdb
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.exe
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.exe.config
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\csc.rsp
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.exe
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.exe.config
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\csi.rsp
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.AppContext.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Collections.Immutable.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Console.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.Compression.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.FileSystem.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Net.Http.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Net.Sockets.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.ValueTuple.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XPath.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.exe
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.exe.config
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\vbc.rsp
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\VBCSCompiler.exe
+D:\ElectronicsProject\ElectronicsProject\bin\roslyn\VBCSCompiler.exe.config
+D:\ElectronicsProject\ElectronicsProject\bin\itextsharp.dll
+D:\ElectronicsProject\ElectronicsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ElectronicsProject\ElectronicsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csprojAssemblyReference.cache
+D:\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csproj.CoreCompileInputs.cache
+D:\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.csproj.CopyComplete
+D:\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.dll
+D:\ElectronicsProject\ElectronicsProject\obj\Debug\ElectronicsProject.pdb
